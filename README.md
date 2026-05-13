@@ -387,12 +387,3 @@ If you use this code, please cite:
 
 ---
 
-## License
-
-[Your License Here]
-
----
-
-## Contact
-
-For questions or issues, please open an issue on GitHub or contact [your-email].
